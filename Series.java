@@ -1,5 +1,6 @@
 import static java.lang.Math.pow;
 import java.util.*;
+import java.ios.*;
 class Series{
 public static void main(String args[])
 {
