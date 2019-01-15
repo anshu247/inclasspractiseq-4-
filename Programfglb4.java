@@ -1,5 +1,5 @@
 
-class programfglb4{
+class Programfglb4{
 	public static void main(String args[]){
 		System.out.println("S.no\tData Types\tSize\tMinimum value\tMaximum value\t");
 		System.out.println("1\tlong\t64\t-9223372036854775808\t9223372036854775807");
